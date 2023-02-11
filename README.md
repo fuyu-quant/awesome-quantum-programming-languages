@@ -9,8 +9,8 @@ This site is a curation of programming languages, libraries, and simulators for 
 Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-quantum-programming-languages/blob/main/contributing.md) before contributing. Please add quantum programming language, libraries, simulators by raising a pull request.
 
 ## Contents
-* programming language(#Programming language)
-    * Python(#Python)
+* [programming language](#Programming language)
+    * [Python](#Python)
         * Gated-based quantum computers
         - Masurement-based quantum computers(One-way quantum computer)
         - Quantum computing with neutral atoms
