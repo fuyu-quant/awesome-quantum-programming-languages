@@ -1,27 +1,32 @@
-## Quantum-MachineLearning-and-Optimization-Libraries
+# awesome quantum computing library
+This site is a curation of programming languages, libraries, and simulators for quantum computation.
 
 ## Contents
 
-- Python library
+- Python
     - Gated-based quantum computers
     - Masurement-based quantum computers(One-way quantum computer)
     - Quantum computing with neutral atoms
     - Linear optical quantum computing
     - Quantum annealing
 
-- Julia library
+- Julia
     - Gated-based quantum computers
     - Quantum annealing
 
-- C++ library
+- C++
+- Q#
+- QCL
+- Quipper
 - Others
 - Reference
 - Contributors
+- Credits
+- License
 
 
 
-
-## Python library
+## Python
 ### Gated-based quantum computers
 
 - [Qiskit](https://qiskit.org/)-IBMが提供するPythonのゲート型量子計算ライブラリ  
@@ -35,6 +40,14 @@ developer:IBM
 - [torchquantum](https://github.com/mit-han-lab/torchquantum)
 - [Qulacs](http://docs.qulacs.org/en/latest/)-QunaSysが提供するPython，C++のゲート型量子計算ライブラリ
 - [scikit-qulacs](https://qulacs-osaka.github.io/scikit-qulacs/index.html)
+- [mitiq](https://mitiq.readthedocs.io/en/stable/)
+- [ProfectQ](https://github.com/ProjectQ-Framework/ProjectQ)
+- [pyquil](https://github.com/rigetti/pyquil)  
+developer:Rigetti Computing
+- [pytket](https://cqcl.github.io/tket/pytket/api/index.html)  
+developer:Quantinuum
+
+
 
 ### Masurement-based quantum computers(One-way quantum computer)
 - [PaddleQuantum](https://qml.baidu.com/)
@@ -53,7 +66,7 @@ developer:IBM
 
 
 
-## Julia library
+## Julia
 
 ### Gated-based quantum computers
 - [Yao](https://yaoquantum.org/)
@@ -65,17 +78,26 @@ developer:IBM
 ### Quantum annealing
 
 
+## JavaScript
+### Gated-based quantum computers
+- [Qiskit.js](https://github.com/qiskit-community/qiskit-js)  
+developer:IBM
 
 
 
 
-## C++ library
-
+## C++
 ### Gated-based quantum computers
 - [Qulacs](http://docs.qulacs.org/en/latest/)-QunaSysが提供するPython，C++のゲート型量子計算ライブラリ
+- [Qrack](https://vm6502q.readthedocs.io/en/latest/)
+- [Quantum++](https://github.com/softwareQinc/qpp)
 
+## [Q#](https://learn.microsoft.com/en-gb/azure/quantum/?view=qsharp-preview)
+developer:Microsoft
 
+## [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html)
 
+## [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/)
 
 
 ## Reference
@@ -86,4 +108,12 @@ developer:IBM
 
 ## Contributors
 
+
+## Credit
+- [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing#readme)
+- [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp#readme)
+
+
+## License
+[License](https://github.com/fuyu-quant/awesome-quantum-computing/blob/main/LICENSE)-CC0
 
