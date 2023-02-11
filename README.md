@@ -14,9 +14,8 @@
     - Quantum annealing
 
 - C++ library
-
+- Others
 - Reference
-
 - Contributors
 
 
@@ -25,7 +24,7 @@
 ## Python library
 ### Gated-based quantum computers
 
-- [Qiskit](https://qiskit.org/)-IBMが提供するPythonのゲート型量子計算ライブラリ
+- [Qiskit](https://qiskit.org/)-IBMが提供するPythonのゲート型量子計算ライブラリ  
 developer:IBM
 - [PennyLane](https://pennylane.ai/)-XANADUが提供するPythonのゲート型量子計算ライブラリ
 - [Cirq](https://quantumai.google/cirq)-Googleが提供するPythonのゲート型量子計算ライブラリ
