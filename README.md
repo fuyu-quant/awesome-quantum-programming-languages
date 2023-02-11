@@ -26,6 +26,7 @@
 ### Gated-based quantum computers
 
 - [Qiskit](https://qiskit.org/)-IBMが提供するPythonのゲート型量子計算ライブラリ
+developer:IBM
 - [PennyLane](https://pennylane.ai/)-XANADUが提供するPythonのゲート型量子計算ライブラリ
 - [Cirq](https://quantumai.google/cirq)-Googleが提供するPythonのゲート型量子計算ライブラリ
 - [TensorFlowQuantum](https://www.tensorflow.org/quantum)-Googleが提供するPythonの量子と古典ハイブリッド機械学習用のライブラリ
@@ -48,7 +49,7 @@
 
 ### Quantum annealing
 - [Ocean](https://docs.ocean.dwavesys.com/en/stable/packages.html)
-- []
+- [OpenJij](https://github.com/OpenJij/OpenJij)
 
 
 
