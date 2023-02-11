@@ -1,6 +1,6 @@
 # awesome　quantum　programming　languages
-This site is a curation of programming languages, libraries, and simulators for quantum computation.
-![Test Image 1](image/aqpl_logo.png)
+This site is a curation of programming languages, libraries, and simulators for quantum computation.  
+![logo](image/aqpl_logo.png)  
 Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-quantum-programming-languages/blob/main/contributing.md) before contributing. Please add quantum programming language, libraries, simulators by raising a pull request.
 
 ## Contents
