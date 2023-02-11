@@ -9,30 +9,33 @@ This site is a curation of programming languages, libraries, and simulators for 
 Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-quantum-programming-languages/blob/main/contributing.md) before contributing. Please add quantum programming language, libraries, simulators by raising a pull request.
 
 ## Contents
-* [programming language](#Programming language)
+* [programming language](#Programming-language)
     * [Python](#Python)
-        * Gated-based quantum computers
-        - Masurement-based quantum computers(One-way quantum computer)
-        - Quantum computing with neutral atoms
-        - Linear optical quantum computing
-        - Quantum annealing
+        * [Gated-based quantum computers](#gated-based-quantum-computers)
+        * [Masurement-based quantum computers(One-way quantum computer)](#masurement-based-quantum-computersone-way-quantum-computer)
+        * [Quantum computing with neutral atoms](#quantum-computing-with-neutral-atoms)
+        * [Linear optical quantum computing](#linear-optical-quantum-computing)
+        * [Quantum annealing](#quantum-annealing)
 
-    - Julia
-        - Gated-based quantum computers
-        - Quantum annealing
+    * [Julia](#Julia)
+        * [Gated-based quantum computers](#gated-based-quantum-computers-1)
+        * [Quantum computing with neutral atoms](#quantum-computing-with-neutral-atoms-1)
+        * [Quantum annealing](#quantum-annealing-1)
 
-    - C++
-    - Q#
-    - QCL
-    - Quipper
-- Others
-- Reference
-- Contributors
-- Credits
-- License
+    * [C++](#c)
+        * [Gated-based quantum computers](#gated-based-quantum-computers-2)
+    * [JavaScript](#javascript)
+        * [Gated-based quantum computers](#gated-based-quantum-computers-3)
+    * [Q#](#qhttpslearnmicrosoftcomen-gbazurequantumviewqsharp-preview)
+    * [QCL](#qclhttptphtuwienacatoemerqclhtml)
+    * [Quipper](#quipperhttpswwwmathstatdalcaselingerquipper)
+* [Others](#others)
+* [Reference](#reference)
+* [Contributors](#contributors)
+* [License](#license)
 
 
-## Programming language
+## Programming-language
 
 
 ### Python
@@ -83,14 +86,8 @@ developer:Quantinuum
 #### Quantum computing with neutral atoms
 - [Bloqade](https://queracomputing.github.io/Bloqade.jl/dev/)-QuEraが提供するJuliaの中性原子シミュレーションライブラリ
 
-
 #### Quantum annealing
 
-
-### JavaScript
-#### Gated-based quantum computers
-- [Qiskit.js](https://github.com/qiskit-community/qiskit-js)  
-developer:IBM
 
 
 
@@ -103,6 +100,15 @@ developer:IBM
 
 
 
+
+### JavaScript
+#### Gated-based quantum computers
+- [Qiskit.js](https://github.com/qiskit-community/qiskit-js)  
+developer:IBM
+
+
+
+
 ### [Q#](https://learn.microsoft.com/en-gb/azure/quantum/?view=qsharp-preview)
 developer:Microsoft
 
@@ -111,6 +117,10 @@ developer:Microsoft
 
 
 ### [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/)
+
+
+
+## Others
 
 
 
