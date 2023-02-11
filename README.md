@@ -1,4 +1,4 @@
-# awesome　quantum　programming　languages
+# awesome quantum programming languages
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -9,9 +9,9 @@ This site is a curation of programming languages, libraries, and simulators for 
 Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-quantum-programming-languages/blob/main/contributing.md) before contributing. Please add quantum programming language, libraries, simulators by raising a pull request.
 
 ## Contents
-- programming language
-    - Python
-        - Gated-based quantum computers
+* programming language(#Programming language)
+    * Python(#Python)
+        * Gated-based quantum computers
         - Masurement-based quantum computers(One-way quantum computer)
         - Quantum computing with neutral atoms
         - Linear optical quantum computing
