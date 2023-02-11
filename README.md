@@ -8,6 +8,18 @@ This site curates programming languages, libraries, and simulators for quantum c
 
 Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-quantum-programming-languages/blob/main/contributing.md) before contributing. Please add quantum programming language, libraries, simulators by raising a pull request.
 
+<a href="https://matrix.to/#/#nexa-dev:matrix.org">
+<img src="https://img.shields.io/badge/matrix-%23nexa_dev%3Amatrix.org-blue.svg" /></a>
+&nbsp;&nbsp;
+<a href="https://gitlab.com/nexa/nexa/-/commits/dev">
+<img src="https://badgen.net/gitlab/last-commit/nexa/nexa/" /></a>
+&nbsp;&nbsp;
+<a href="https://gitlab.com/nexa/nexa/-/issues">
+<img src="https://badgen.net/gitlab/open-issues/nexa/nexa" /></a>
+&nbsp;&nbsp;
+<a href="https://gitlab.com/nexa/nexa">
+<img src="https://img.shields.io/badge/License-CC--0-blue.svg" /></a>
+
 ## Contents
 * [programming language](#Programming-language)
     * [Python](#Python)
