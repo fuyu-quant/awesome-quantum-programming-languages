@@ -2,22 +2,22 @@
 This site is a curation of programming languages, libraries, and simulators for quantum computation.
 
 ## Contents
+- programming language
+    - Python
+        - Gated-based quantum computers
+        - Masurement-based quantum computers(One-way quantum computer)
+        - Quantum computing with neutral atoms
+        - Linear optical quantum computing
+        - Quantum annealing
 
-- Python
-    - Gated-based quantum computers
-    - Masurement-based quantum computers(One-way quantum computer)
-    - Quantum computing with neutral atoms
-    - Linear optical quantum computing
-    - Quantum annealing
+    - Julia
+        - Gated-based quantum computers
+        - Quantum annealing
 
-- Julia
-    - Gated-based quantum computers
-    - Quantum annealing
-
-- C++
-- Q#
-- QCL
-- Quipper
+    - C++
+    - Q#
+    - QCL
+    - Quipper
 - Others
 - Reference
 - Contributors
@@ -25,9 +25,11 @@ This site is a curation of programming languages, libraries, and simulators for 
 - License
 
 
+## Programming language
 
-## Python
-### Gated-based quantum computers
+
+### Python
+#### Gated-based quantum computers
 
 - [Qiskit](https://qiskit.org/)-IBMが提供するPythonのゲート型量子計算ライブラリ  
 developer:IBM
@@ -49,69 +51,70 @@ developer:Quantinuum
 
 
 
-### Masurement-based quantum computers(One-way quantum computer)
+#### Masurement-based quantum computers(One-way quantum computer)
 - [PaddleQuantum](https://qml.baidu.com/)
     https://qml.baidu.com/tutorials/measurement-based-quantum-computation/mbqc-quick-start-guide.html
 
-### Quantum computing with neutral atoms
+#### Quantum computing with neutral atoms
 - [Pulser](https://pulser.readthedocs.io/en/stable/index.html)
 
-### Linear optical quantum computing
+#### Linear optical quantum computing
 - [StrawberryFields](https://strawberryfields.ai/)-XANADUが提供するPythonの光連続量量子計算ライブラリ
 
-### Quantum annealing
+#### Quantum annealing
 - [Ocean](https://docs.ocean.dwavesys.com/en/stable/packages.html)
 - [OpenJij](https://github.com/OpenJij/OpenJij)
 
 
 
 
-## Julia
+### Julia
 
-### Gated-based quantum computers
+#### Gated-based quantum computers
 - [Yao](https://yaoquantum.org/)
 
-### Quantum computing with neutral atoms
+#### Quantum computing with neutral atoms
 - [Bloqade](https://queracomputing.github.io/Bloqade.jl/dev/)-QuEraが提供するJuliaの中性原子シミュレーションライブラリ
 
 
-### Quantum annealing
+#### Quantum annealing
 
 
-## JavaScript
-### Gated-based quantum computers
+### JavaScript
+#### Gated-based quantum computers
 - [Qiskit.js](https://github.com/qiskit-community/qiskit-js)  
 developer:IBM
 
 
 
 
-## C++
-### Gated-based quantum computers
+### C++
+#### Gated-based quantum computers
 - [Qulacs](http://docs.qulacs.org/en/latest/)-QunaSysが提供するPython，C++のゲート型量子計算ライブラリ
 - [Qrack](https://vm6502q.readthedocs.io/en/latest/)
 - [Quantum++](https://github.com/softwareQinc/qpp)
 
-## [Q#](https://learn.microsoft.com/en-gb/azure/quantum/?view=qsharp-preview)
+
+
+### [Q#](https://learn.microsoft.com/en-gb/azure/quantum/?view=qsharp-preview)
 developer:Microsoft
 
-## [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html)
 
-## [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/)
+### [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html)
+
+
+### [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/)
+
 
 
 ## Reference
-- https://qiita.com/kannkyo/items/de5b85dc4cc28643492c
-
+- [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing#readme)
+- [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp#readme)
 
 
 
 ## Contributors
 
-
-## Credit
-- [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing#readme)
-- [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp#readme)
 
 
 ## License
