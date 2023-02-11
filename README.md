@@ -1,9 +1,9 @@
-# Quantum-MachineLearning-and-Optimization-Libraries
+## Quantum-MachineLearning-and-Optimization-Libraries
 
 ## Contents
 
-- [Python library](#Gated-based quantum computers)
-    - [Gated-based quantum computers](#Gated-based quantum computers)
+- [Python library]
+    - Gated-based quantum computers
     - Masurement-based quantum computers(One-way quantum computer)
     - Linear optical quantum computing
     - Quantum annealing
@@ -18,6 +18,9 @@
 ## Python library
 ### Gated-based quantum computers
 
+- [Qiskit](https://qiskit.org/)-IBMが提供するPythonのゲート型量子計算ライブラリ
+
+
 ### Masurement-based quantum computers(One-way quantum computer)
 
 
@@ -31,8 +34,7 @@
 
 ### Quantum annealing
 
-Qiskit…IBMが提供するPythonのゲート型量子計算ライブラリ
-https://qiskit.org/
+
 Penny Lane…XANADUが提供するPythonのゲート型量子計算ライブラリ
 https://pennylane.ai/
 Strawberry Fields…XANADUが提供するPythonの光連続量量子計算ライブラリ
