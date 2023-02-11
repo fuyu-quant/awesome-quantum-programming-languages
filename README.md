@@ -2,7 +2,7 @@
 
 ## Contents
 
-- Python library
+- [Python library](#Gated-based quantum computers)
     - [Gated-based quantum computers](#Gated-based quantum computers)
     - Masurement-based quantum computers(One-way quantum computer)
     - Linear optical quantum computing
