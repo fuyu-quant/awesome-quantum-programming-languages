@@ -1,8 +1,8 @@
-# awesome quantum programming languages
+# Awesome Quantum Programming Languages
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This site is a curation of programming languages, libraries, and simulators for quantum computation.  
+This site curates programming languages, libraries, and simulators for quantum computation. The information is categorized and organized by programming language and method of quantum computation.  
 
 ![logo](image/aqpl_logo.jpg)  
 
@@ -62,8 +62,7 @@ developer:Quantinuum
 
 
 #### Masurement-based quantum computers(One-way quantum computer)
-- [PaddleQuantum](https://qml.baidu.com/)
-    https://qml.baidu.com/tutorials/measurement-based-quantum-computation/mbqc-quick-start-guide.html
+- [PaddleQuantum](https://qml.baidu.com/tutorials/measurement-based-quantum-computation/mbqc-quick-start-guide.html)
 
 #### Quantum computing with neutral atoms
 - [Pulser](https://pulser.readthedocs.io/en/stable/index.html)
