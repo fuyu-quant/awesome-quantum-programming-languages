@@ -45,19 +45,30 @@ Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-
 ### Python
 #### Gated-based quantum computers
 
-- [Qiskit](https://qiskit.org/)-IBMが提供するPythonのゲート型量子計算ライブラリ  
+- [Qiskit](https://qiskit.org/)  
 developer:IBM
-- [PennyLane](https://pennylane.ai/)-XANADUが提供するPythonのゲート型量子計算ライブラリ
-- [Cirq](https://quantumai.google/cirq)-Googleが提供するPythonのゲート型量子計算ライブラリ
-- [TensorFlowQuantum](https://www.tensorflow.org/quantum)-Googleが提供するPythonの量子と古典ハイブリッド機械学習用のライブラリ
-- [Blueqat](https://blueqat.readthedocs.io/en/latest/)-blueqatが提供するPythonのゲート型量子計算ライブラリ
-- [Qulacs](http://docs.qulacs.org/en/latest/)-QunaSysが提供するPython，C++のゲート型量子計算ライブラリ
+- [PennyLane](https://pennylane.ai/)
+developer:XANADU
+- [Cirq](https://quantumai.google/cirq)
+developer:Google
+- [TensorFlowQuantum](https://www.tensorflow.org/quantum)
+developer:Google
+- [Blueqat](https://blueqat.readthedocs.io/en/latest/)
+developer:blueqat
+- [Qulacs](http://docs.qulacs.org/en/latest/)
+developer:QunaSys
 - [PaddleQuantum](https://qml.baidu.com/)
+developer:Baidu
 - [torchquantum](https://github.com/mit-han-lab/torchquantum)
-- [Qulacs](http://docs.qulacs.org/en/latest/)-QunaSysが提供するPython，C++のゲート型量子計算ライブラリ
+developer:
+- [Qulacs](http://docs.qulacs.org/en/latest/)
+developer:QunaSys
 - [scikit-qulacs](https://qulacs-osaka.github.io/scikit-qulacs/index.html)
+developer:QunaSys
 - [mitiq](https://mitiq.readthedocs.io/en/stable/)
+developer:
 - [ProfectQ](https://github.com/ProjectQ-Framework/ProjectQ)
+developer:
 - [pyquil](https://github.com/rigetti/pyquil)  
 developer:Rigetti Computing
 - [pytket](https://cqcl.github.io/tket/pytket/api/index.html)  
