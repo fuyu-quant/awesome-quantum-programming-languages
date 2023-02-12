@@ -74,6 +74,7 @@ developer:Quantinuum
 Tool to visually identify Barren Plateaus, a challenge in quantum machine learning  
 https://sites.google.com/view/equate-aimlab
 - [lambeq](https://github.com/CQCL/lambeq)  
+developer:Cambridge Quantum  
 Tools for Quantum Natural Language Processing
 
 
