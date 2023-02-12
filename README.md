@@ -47,27 +47,24 @@ Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-
 
 - [Qiskit](https://qiskit.org/)  
 developer:IBM
-- [PennyLane](https://pennylane.ai/)
+- [PennyLane](https://pennylane.ai/)  
 developer:XANADU
-- [Cirq](https://quantumai.google/cirq)
+- [Cirq](https://quantumai.google/cirq)  
 developer:Google
-- [TensorFlowQuantum](https://www.tensorflow.org/quantum)
+- [TensorFlowQuantum](https://www.tensorflow.org/quantum)  
 developer:Google
-- [Blueqat](https://blueqat.readthedocs.io/en/latest/)
+- [Blueqat](https://blueqat.readthedocs.io/en/latest/)  
 developer:blueqat
 - [Qulacs](http://docs.qulacs.org/en/latest/)
-developer:QunaSys
-- [PaddleQuantum](https://qml.baidu.com/)
+- [PaddleQuantum](https://qml.baidu.com/)  
 developer:Baidu
-- [torchquantum](https://github.com/mit-han-lab/torchquantum)
+- [torchquantum](https://github.com/mit-han-lab/torchquantum)  
 developer:
-- [Qulacs](http://docs.qulacs.org/en/latest/)
+- [Qulacs](http://docs.qulacs.org/en/latest/)  
 developer:QunaSys
-- [scikit-qulacs](https://qulacs-osaka.github.io/scikit-qulacs/index.html)
-developer:QunaSys
-- [mitiq](https://mitiq.readthedocs.io/en/stable/)
+- [scikit-qulacs](https://qulacs-osaka.github.io/scikit-qulacs/index.html)  
 developer:
-- [ProfectQ](https://github.com/ProjectQ-Framework/ProjectQ)
+- [ProfectQ](https://github.com/ProjectQ-Framework/ProjectQ)  
 developer:
 - [pyquil](https://github.com/rigetti/pyquil)  
 developer:Rigetti Computing
@@ -83,7 +80,8 @@ developer:Quantinuum
 - [Pulser](https://pulser.readthedocs.io/en/stable/index.html)
 
 #### Linear optical quantum computing
-- [StrawberryFields](https://strawberryfields.ai/)-XANADUが提供するPythonの光連続量量子計算ライブラリ
+- [StrawberryFields](https://strawberryfields.ai/)  
+developer:XANADU
 
 #### Quantum annealing
 - [Ocean](https://docs.ocean.dwavesys.com/en/stable/packages.html)
@@ -98,7 +96,8 @@ developer:Quantinuum
 - [Yao](https://yaoquantum.org/)
 
 #### Quantum computing with neutral atoms
-- [Bloqade](https://queracomputing.github.io/Bloqade.jl/dev/)-QuEraが提供するJuliaの中性原子シミュレーションライブラリ
+- [Bloqade](https://queracomputing.github.io/Bloqade.jl/dev/)  
+developer:QuEra
 
 #### Quantum annealing
 
@@ -108,7 +107,8 @@ developer:Quantinuum
 
 ### C++
 #### Gated-based quantum computers
-- [Qulacs](http://docs.qulacs.org/en/latest/)-QunaSysが提供するPython，C++のゲート型量子計算ライブラリ
+- [Qulacs](http://docs.qulacs.org/en/latest/)  
+developer:QunaSys
 - [Qrack](https://vm6502q.readthedocs.io/en/latest/)
 - [Quantum++](https://github.com/softwareQinc/qpp)
 
@@ -123,7 +123,7 @@ developer:IBM
 
 
 
-### [Q#](https://learn.microsoft.com/en-gb/azure/quantum/?view=qsharp-preview)
+### [Q#](https://learn.microsoft.com/en-gb/azure/quantum/?view=qsharp-preview)  
 developer:Microsoft
 
 
