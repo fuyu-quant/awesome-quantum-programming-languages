@@ -13,7 +13,7 @@ Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-
 <img src="https://img.shields.io/badge/License-CC--0-blue.svg" /></a>
 
 ## Contents
-* [programming language](#Programming-language)
+* [programming language](#programming-language)
     * [Python](#Python)
         * [Gated-based quantum computers](#gated-based-quantum-computers)
         * [Masurement-based quantum computers(One-way quantum computer)](#masurement-based-quantum-computersone-way-quantum-computer)
@@ -39,7 +39,7 @@ Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-
 * [License](#license)
 
 
-## Programming-language
+## Programming language
 
 
 ### Python
