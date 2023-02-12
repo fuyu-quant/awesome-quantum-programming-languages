@@ -73,7 +73,8 @@ developer:Quantinuum
 - [EQuaTE](https://github.com/aimlab-koreauniv/EQuaTE)  
 Tool to visually identify Barren Plateaus, a challenge in quantum machine learning  
 https://sites.google.com/view/equate-aimlab
-
+- [lambeq](https://github.com/CQCL/lambeq)  
+Tools for Quantum Natural Language Processing
 
 
 #### Masurement-based quantum computers(One-way quantum computer)
