@@ -75,8 +75,8 @@ Tool to visually identify Barren Plateaus, a challenge in quantum machine learni
 https://sites.google.com/view/equate-aimlab
 - [lambeq](https://github.com/CQCL/lambeq)  
 developer:Cambridge Quantum  
-Tools for Quantum Natural Language Processing
-
+Tools for Quantum Natural Language Processing  
+[paper](https://arxiv.org/abs/2110.04236)
 
 #### Masurement-based quantum computers(One-way quantum computer)
 - [PaddleQuantum](https://qml.baidu.com/tutorials/measurement-based-quantum-computation/mbqc-quick-start-guide.html)
