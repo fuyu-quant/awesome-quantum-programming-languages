@@ -70,6 +70,9 @@ developer:
 developer:Rigetti Computing
 - [pytket](https://cqcl.github.io/tket/pytket/api/index.html)  
 developer:Quantinuum
+- [EQuaTE](https://github.com/aimlab-koreauniv/EQuaTE)  
+Tool to visually identify Barren Plateaus, a challenge in quantum machine learning  
+https://sites.google.com/view/equate-aimlab
 
 
 
