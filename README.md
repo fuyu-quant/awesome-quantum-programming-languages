@@ -4,7 +4,7 @@
 
 This site curates programming languages, libraries, and simulators for quantum computation. The information is categorized and organized by programming language and method of quantum computation.  
 
-![logo](image/aqpl_logo4.png)  
+<img src="image/aqpl_logo4.png" width="600">
 
 Please read the [contribution guidelines](https://github.com/fuyu-quant/awesome-quantum-programming-languages/blob/main/contributing.md) before contributing. Please add quantum programming language, libraries, simulators by raising a pull request.
 
