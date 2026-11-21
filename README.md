@@ -141,6 +141,11 @@ developer:Microsoft
 
 ## Others
 
+### Qasmith
+
+- [Qasmith](https://github.com/quvly/Qasmith)
+  developer:Quvly
+  High-level quantum programming language with native `.smith` syntax, reusable modules and packages, QUBO/Ising modeling, QAOA support, and OpenQASM 3.0 compilation.
 
 
 ## Reference
